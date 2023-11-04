@@ -6,5 +6,5 @@ Para rodar este projeto na sua máquina, digite:
 
 # 🔨
 ...
-instruções
+node app.js
 ...
