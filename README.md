@@ -4,6 +4,7 @@
 
 Para rodar este projeto na sua máquina, digite:
 
+# 🔨
 ...
 instruções
 ...
